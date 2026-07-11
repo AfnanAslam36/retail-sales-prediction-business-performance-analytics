@@ -1,0 +1,19 @@
+# Generated datasets
+data/merged_data.csv
+data/featured_data.csv
+data/powerbi_dataset.csv
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
